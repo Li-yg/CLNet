@@ -14,13 +14,12 @@ All materials will be released upon manuscript acceptance. We appreciate your pa
  
 The rapid evolution of intelligent flight cockpits necessitates real-time monitoring of pilots’ cognitive load to ensure safety. CLNet (Cognitive Load Network) is a novel, ultra-lightweight neural architecture—just 27 K parameters—designed for accurate, millisecond-scale classification of pilot workload (low, medium, high).
  
----
  
 ## CLNet Framework
  
 *Details to be added upon manuscript acceptance.*
+
  
----
  
 ## ATPCL Dataset
  
