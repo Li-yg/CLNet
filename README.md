@@ -34,10 +34,10 @@ The Airfield Traffic Pattern Cognitive Load (ATPCL) dataset was recorded on a fl
 ---
  
 ## Quickly Start
-﻿
+
 *Details to be added upon manuscript acceptance.*
-﻿
----
+
+ ---
  
 We welcome your feedback and contributions!  
  
