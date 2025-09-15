@@ -17,13 +17,13 @@ The rapid evolution of intelligent flight cockpits necessitates real-time monito
  
 ## ATPCL Dataset
  
-*Partial dataset slice to be uploaded upon manuscript acceptance for testing.*
- 
+
 The Airfield Traffic Pattern Cognitive Load (ATPCL) dataset was recorded on a flight simulator during the cruise, takeoff, and landing phases. It includes:  
 - 15 professionally trained cadets from Beihang University  
 - Completion of a five-leg flight task sequence  
-- Simultaneous EEG, EMG, and ECG signal recordings  
-
+- Simultaneous EEG, EMG, and ECG signal recordings
+  
+*Since all participants are civil aviation flight trainees who are about to enter the workforce, we regret that we are unable to make the dataset publicly available due to privacy and safety concerns for the pilots.*
 
 
  ---
