@@ -16,7 +16,7 @@ The rapid evolution of intelligent flight cockpits necessitates real-time monito
  
 ## CLNet Framework
  
-![Uploading Figure2.png…]()
+<img width="6675" height="4575" alt="Figure2" src="https://github.com/user-attachments/assets/d1df865c-b850-4842-a5bd-4f0d7799341c" />
 
 
  
