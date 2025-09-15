@@ -16,7 +16,8 @@ The rapid evolution of intelligent flight cockpits necessitates real-time monito
  
 ## CLNet Framework
  
-*Details to be added upon manuscript acceptance.*
+![Uploading Figure2.png…]()
+
 
  
  
@@ -29,10 +30,7 @@ The Airfield Traffic Pattern Cognitive Load (ATPCL) dataset was recorded on a fl
 - Completion of a five-leg flight task sequence  
 - Simultaneous EEG, EMG, and ECG signal recordings  
 
- 
-# Quickly Start
 
-*Details to be added upon manuscript acceptance.*
 
  ---
  
