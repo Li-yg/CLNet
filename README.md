@@ -10,14 +10,14 @@ The rapid evolution of intelligent flight cockpits necessitates real-time monito
  
 ## CLNet Framework
  
-<img width="6675" height="4575" alt="Figure2" src="https://github.com/user-attachments/assets/d1df865c-b850-4842-a5bd-4f0d7799341c" />
+<img width="2225" height="1525" alt="Figure2" src="https://github.com/user-attachments/assets/d1df865c-b850-4842-a5bd-4f0d7799341c" />
 
 
  
  
 ## ATPCL Dataset
  
-<img width="1386" height="1061" alt="Figure6" src="https://github.com/user-attachments/assets/ef8222b7-63a6-4551-b6be-1c623e9473d1" />
+<img width="462" height="354" alt="Figure6" src="https://github.com/user-attachments/assets/ef8222b7-63a6-4551-b6be-1c623e9473d1" />
 
 The Airfield Traffic Pattern Cognitive Load (ATPCL) dataset was recorded on a flight simulator during the cruise, takeoff, and landing phases. It includes:  
 - 15 professionally trained cadets from Beihang University  
